@@ -13,7 +13,7 @@ public class BankAccount {
 
             boolean quit = false;
 
-            float balance = 0f;
+            float balance = 10000f;
 
             do {
 
